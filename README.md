@@ -1,2 +1,2 @@
 # my-html-lesson-project
-basi cat photo app
+basic cat photo app
